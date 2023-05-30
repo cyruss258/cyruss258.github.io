@@ -2,7 +2,7 @@
 
 Here you can find some of my recent projects. To learn more about each project, simply click on it and you will be redirected to that project on my Github profile.
 
-# About
+# About Me
 Hello! My name is Sina Cyrus and I am a Data Analyst. With a strong engineering background, I possess a solid foundation in mathematics, statistics, and a meticulous attention to detail. Throughout my career, I have excelled in leading cross-functional projects, driving efficiency, and fostering growth. I take pride in my unique blend of intelligence and dedication to hard work. Transitioning into the field of data analytics, I have thrived as an analyst, influencing decision-making at various leadership levels through my technical and non-technical expertise.
 
 Having worked in the paint industry across multiple countries, from Iran to Canada and now the UK, I have developed a deep passion for working with numbers and extracting valuable insights from data. This passion drove me to pursue professional development in the UK and kick-started my career as a data analyst.
