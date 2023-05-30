@@ -31,5 +31,5 @@ An e-commerce business wanted to initiate email marketing campaign. In order to 
 
 The tools used in this project are as follows:
 
-SQL using GCP BigQuery
-Microsoft Power BI
+* SQL using GCP BigQuery
+* Microsoft Power BI
