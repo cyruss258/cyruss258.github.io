@@ -1,4 +1,4 @@
-# Welcome To My Portfolio Website!
+# Welcome To My Website!
 
 Here you can find some of my recent projects. To learn more about each project, simply click on it and you will be redirected to that project on my Github profile.
 
@@ -11,10 +11,11 @@ Looking ahead, my focus is on further enhancing my data analytics skills while e
 
 Below you can find some of my projects:
 
+
 ## [Business Performance Monitoring](https://github.com/cyruss258/business-performance)
 <img width="954" alt="Screenshot 2023-05-30 at 4 30 48 PM" src="https://github.com/cyruss258/cyruss258.github.io/assets/127425390/8e2952b7-88e2-46b2-a8ac-2899af6b449c">
 
-Defined and visualized KPIs for different areas of the businees.
+###### Defined and visualized KPIs for different areas of the businees.
 
 In this project, the KPIs for different areas of the business were defined and also different dashboards were designed to monitor in real-time the business performance.
 
