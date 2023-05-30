@@ -33,3 +33,10 @@ The tools used in this project are as follows:
 
 * SQL using GCP BigQuery
 * Microsoft Power BI
+
+
+## [University Partners In The US MArket](https://github.com/cyruss258/uni-partners)
+<img width="958" alt="Screenshot 2023-05-30 at 5 22 33 PM" src="https://github.com/cyruss258/cyruss258.github.io/assets/127425390/d09457d3-897f-49fb-84c6-d25242b49a5e">
+###### Potential University Partners In The US For Sending Students Abroad
+
+A well-known education company was looking for partners within the US market to send students to the US for undergraduation studies. Using the dataset from that business and some public datasets from the US, I made a visual, alongside a business case to demonstrate the potential candidates. This company had presence in some of the US markets, so it was looking to expand in other states.
