@@ -25,7 +25,7 @@ This project was done using SQL in GCP BigQuery and Microsoft Power BI.
 
 ## [Customer Segmentation For Email Marketing](https://github.com/cyruss258/customer-segmentation)
 <img width="956" alt="Screenshot 2023-05-30 at 4 28 51 PM" src="https://github.com/cyruss258/cyruss258.github.io/assets/127425390/34090b78-bed3-4dad-94e7-6170ffa56e83">
-###### A Customer Segmentation Using RFM (Recency, Frequency, Monetary) Method.
+###### A Customer segmentation using RFM (recency, frequency, monetary) method.
 
 An e-commerce business wanted to initiate email marketing campaign. In order to do so, it was decided that this campaign would be more effective if we send persalized marketing email. So, we decided to do a comprehensive customer segmentation to identify the behavior of each segment and send them marketing emails that suits their needs. In this way we can encourage them to visit our website and buy from us.
 
